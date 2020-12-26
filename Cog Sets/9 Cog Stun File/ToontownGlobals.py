@@ -1260,7 +1260,7 @@ LawbotBossDifficultySettings = [(38,
   1),
  (22,
   0,
-  8,
+  9,
   4,
   1,
   0)]
