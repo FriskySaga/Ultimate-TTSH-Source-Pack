@@ -1,0 +1,37 @@
+***To Play Solo***
+1. Extract the entire .ZIP Folder
+1. Install Panda3D
+2. Open TTSH\win32
+3. Open start_all.bat
+4. Play!
+
+***To start up your own server***
+1. Install Hamachi
+2. Create an account or log in
+3. Create a Hamachi network/Join your friends' Hamachi network
+4. Open TTSH\win32
+5. Open start_all.bat
+6. Play!
+
+***To join someone's server***
+1. Install Hamachi
+2. Create an account or log in
+3. Create a Hamachi network/Join their Hamachi network
+4. Open TTSH\win32
+5. Open join_server.bat
+6. Enter a Username (Don't make it random/be sure to remember it as your toons will be stored here)
+7. Copy their IPv4 Address
+8. Enter their Hamachi IPv4 address
+9. Play!
+
+********************************************************************************
+
+For 
+
+For CFO, WAIT until Mata Harry starts TALKING, then type "~rcr" twice.
+	If you ~rcr too early, you will crash.
+	If you ~rcr only once and hop on a crane, you will crash as well.
+
+For CJ, if you want the podium there, type "cannons", then "~rsc".
+	If you only ~rsc, the CJ will be floating; however the podium will remain on the ground.
+	If you do the cannon round, the scale will appear as it normally would.

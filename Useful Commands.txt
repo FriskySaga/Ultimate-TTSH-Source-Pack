@@ -1,0 +1,58 @@
+\\Starting Off//
+
+To max your toon:
+~maxtoon (must do this to be able to exit TTC
+~maxhp [15-137] (sets max laff)
+~hp [15-137] (sets laff)
+~NeverSleep (disables falling asleep for your current session; does not affect other toons)
+
+To change your name and nametag style:
+~name [name]
+~nametag [style]
+
+To change your clothes:
+~shirt [value]
+~shirtcolor [value]
+~sleeves [value]
+~sleevescolor [value]
+~bottoms [value]
+~bottomscolor [value]
+~hat [value] [value]
+~glasses [value] [value]
+~backpack [value] [value]
+~shoes [value] [value]
+~color [head/arm/leg] [value]
+~gm
+
+Values are in the shticker book
+
+\\For the VP//
+~stunvp
+~skipvp
+~rpr
+
+\\For the CFO//
+~rcr (skips straight to the crane round/restarts the crane round)
+~setCraneSpawn [1-4] (sets the craning spawn point of a certain toon)
+~safeRush (sets knockout damage in cfo to 2 for safe rush practice)
+~DisableGoons (stuns all goons in the area)
+~god (god mode + superspeed; ~run to disable the superspeed)
+~oobe (allows you go get an out of body POV; navigate with left/right click)
+
+\\For the CJ//
+~cannons (skips to the start of the cannon round; use for 12 cog stuns or for scale practice)
+~rsc (skips straight to the scale round/restarts the scale round)
+~GivePies 7 (gives infinite amount of evidence)
+~fps (shows fps in top right corner)
+~run (toggles speed)
+~god (god mode + superspeed)
+~stun (instantly stuns all lawyers and gives you stun bonus)
+~FillJury (fills all jury seats with toons)
+
+\\For Recording Cinematics//
+~getpos/~setpos [x y z] (get/set your coordinates; will appear in your game client command prompt)
+~gethpr/~sethpr [h p r] (get/set your angle/rotation/pivot; will appear in your game client command prompt)
+~camera startpoint [x y z h p r] (sets your startpoint for the camera path)
+~camera addpoint [x y z h p r t] (adds a point in which the camera will fly towards; t stands for seconds it takes to fly there)
+~camera play (plays the camera path in full)
+~camera clear (clears all points; does not clear startpoint. to clear startpoint, just replace it)

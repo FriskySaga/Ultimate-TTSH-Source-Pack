@@ -1,0 +1,4 @@
+For the podium:
+1. ~cannons
+2. ~rsc
+3. ~setpos -20.745 73.4502 21.0283 (position for 180 lob for 3rd cog on top of podium)
