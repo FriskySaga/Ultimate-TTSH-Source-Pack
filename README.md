@@ -118,7 +118,7 @@ Reverse-engineered Toontown Online client/server source code is property of The 
 ## Afterword
 Hello there, this is FriskySaga! Just a few remarks:
 
-I facechecked the zip file from [this video](https://www.youtube.com/watch?v=A_RGw8cdwjs). Then I uploaded all the files from that zip file as is to GitHub so that my friends could have access to this.
+I facechecked the zip file from [this video](https://www.youtube.com/watch?v=A_RGw8cdwjs). Then I uploaded all the files from that zip file as is to GitHub so that my friends could have access to this. Kudos to Holland for publishing the video!
 
 I also grabbed the updated 9 cogs stun file from that video description and made the updates here.
 
