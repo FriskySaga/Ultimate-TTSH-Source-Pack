@@ -1,13 +1,4 @@
 # Ultimate TTSH Source Pack
-Hello there, this is FriskySaga! Just a few remarks:
-
-I facechecked the zip file from [this video](https://www.youtube.com/watch?v=A_RGw8cdwjs). Then I uploaded all the files from that zip file as is to GitHub so that my friends could have access to this.
-
-I also grabbed the updated 9 cogs stun file from that video description and made the updates here.
-
-Finally, I'll copy paste the text files from the zip file for easy access.
-
-P.S. And I'll make updates to the code as needed
 
 ## How To Get Started
 ***To Play Solo***
@@ -123,3 +114,14 @@ Reverse-engineered Toontown Online client/server source code is property of The 
 
 "Should credit 'Sketched' too because I basically took his branch and modified it from there"
 -Aeterna
+
+## Afterword
+Hello there, this is FriskySaga! Just a few remarks:
+
+I facechecked the zip file from [this video](https://www.youtube.com/watch?v=A_RGw8cdwjs). Then I uploaded all the files from that zip file as is to GitHub so that my friends could have access to this.
+
+I also grabbed the updated 9 cogs stun file from that video description and made the updates here.
+
+Finally, I'll copy paste the text files from the zip file for easy access.
+
+P.S. And I'll make updates to the code as needed
