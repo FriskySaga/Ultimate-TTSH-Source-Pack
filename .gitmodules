@@ -1,6 +1,6 @@
 [submodule "TTSH - Cinematic Edition"]
 	path = TTSH - Cinematic Edition
-	url = git@github.com:FriskySaga/TTSH-Stun-Edition.git
+	url = git@github.com:FriskySaga/TTSH-Cinematic-Edition.git
 [submodule "TTSH - Stun Edition (With Key Rebinding)"]
 	path = TTSH - Stun Edition (With Key Rebinding)
 	url = git@github.com:FriskySaga/TTSH-Stun-Edition.git
