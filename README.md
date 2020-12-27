@@ -106,20 +106,19 @@ Kudos to Holland for posting the video and sharing the code!
 * camera clear (clears all points; does not clear startpoint. to clear startpoint, just replace it)
 
 ## Credits
-The Toontown Offline Team for the original source code
-Aeterna/Alyazia for modifying all 3 sources
-Relentless/Travis for writing the rebind source for scale + crane source
-Holland for implementing rebind keys for stunning source + compiling all of these files together
+* The Toontown Offline Team for the original source code
+* Aeterna/Alyazia for modifying all 3 sources
+* Relentless/Travis for writing the rebind source for scale + crane source
+* Holland for implementing rebind keys for stunning source + compiling all of these files together
 
-Astron
-Panda3D (More specifically, the modified Astron Panda3D which can be found here)
-libpandadna
-libotp-movement
-libotp-nametags
-Reverse-engineered Toontown Online client/server source code is property of The Walt Disney Company.
+* Astron
+* Panda3D (More specifically, the modified Astron Panda3D which can be found here)
+* libpandadna
+* libotp-movement
+* libotp-nametags
+* Reverse-engineered Toontown Online client/server source code is property of The Walt Disney Company.
 
-"Should credit 'Sketched' too because I basically took his branch and modified it from there"
--Aeterna
+* "Should credit 'Sketched' too because I basically took his branch and modified it from there" -Aeterna
 
 ## Afterword
 Hello there, this is FriskySaga! Just a few remarks:
