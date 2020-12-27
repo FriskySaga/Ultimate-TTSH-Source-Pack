@@ -111,6 +111,7 @@ Kudos to Holland for posting the video and sharing the code!
 * Relentless/Travis for writing the rebind source for scale + crane source
 * Holland for implementing rebind keys for stunning source + compiling all of these files together
 
+#### Extra Credits
 * Astron
 * Panda3D (More specifically, the modified Astron Panda3D which can be found here)
 * libpandadna
@@ -118,6 +119,7 @@ Kudos to Holland for posting the video and sharing the code!
 * libotp-nametags
 * Reverse-engineered Toontown Online client/server source code is property of The Walt Disney Company.
 
+#### Final Word on Credits
 * "Should credit 'Sketched' too because I basically took his branch and modified it from there" -Aeterna
 
 ## Afterword
