@@ -129,6 +129,6 @@ I facechecked the zip file from [this video](https://www.youtube.com/watch?v=A_R
 
 I also grabbed the updated 9 cogs stun file from that video description and made the updates here.
 
-Finally, I'll copy paste the text files from the zip file for easy access.
+So all I really did was upload the files from that video to the GitHub and put together a README.
 
-P.S. And I'll make updates to the code as needed
+P.S. As of 12/27/2020, I haven't made any of my own personal code changes here.
